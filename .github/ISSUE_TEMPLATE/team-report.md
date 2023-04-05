@@ -2,7 +2,7 @@
 name: Team report
 about: Report an team-member
 title: ''
-labels: Owner-Question
+labels: ''
 assignees: Grizzlybln
 
 ---
