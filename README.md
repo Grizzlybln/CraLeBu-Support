@@ -1,7 +1,8 @@
-# CraLeBu-Support
-#Support For The Comunity Server From CrazyLegoBuilders - CraLeBu
+# CraLeBu-Suppor
+Support For The Comunity Server From CrazyLegoBuilders - CraLeBu
 
-#This Project Is Only For Support Management From CraLeBu
+Teamspeak Server : 94.250.223.25:15152
 
-#If You Have Problems With An Player Or With An Bug , Create An Issue
-#Please Use The Language English For The Support (Then every team-member can help you)
+If You Have Problems With An Player Or With An Bug , Create An Issue
+Please Use English When You Not Speaking German 
+(Then every team-member can help you)
